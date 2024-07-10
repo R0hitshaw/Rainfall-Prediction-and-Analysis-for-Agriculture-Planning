@@ -16,7 +16,6 @@ This project aims to predict monthly rainfall using Long Short-Term Memory (LSTM
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
